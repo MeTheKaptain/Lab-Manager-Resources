@@ -197,7 +197,7 @@
 	- Basic Science Admin employee
 	- Literally indispensable to the function of our lab
 	- If you have questions about lab management and Augie can't answer, ask Vicki
-	- Responsible *(for now)* for maintaining liquid nitrogen tanks on the 9th floor of the BMSB
+	- Responsible *(for now)* for maintaining liquid nitrogen tanks on the 9th floor of the BMSB and many other things besides *(lab coat laundry, helping with SURs, generating POs for large orders, etc)*
 
 * **Jeff Hays**
 	- BRC Building Manager
@@ -208,11 +208,12 @@
 	- Environmental Health and Safety Officer *(EHSO)*
 	- Can dispose of waste chemicals and old reagents with the proper forms
 	- Will communicate with the lab regarding safety inspections yearly
+	- Great resource for learning the letter of the law regarding lab safety
 
 * **Basic Sciences Admin**
 	- The umbrella administration that is aiding ***all*** of the basic science departments
 	- Will need to send them invoices that need to be paid via voucher *(just AirGas)*
-	- Can be helpful in ordering departmental items *(printer toner, paper, etc)*
+	- Can be helpful in ordering departmental items *(printer toner, paper, etc)* for the BRC building they are never in
 	- They are incredibly overworked and thus often unreliable, use with caution
 
 * **Baylee Lacy**
