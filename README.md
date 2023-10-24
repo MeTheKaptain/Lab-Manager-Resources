@@ -3,13 +3,13 @@
 
 ---
 
-1. General Lab Duties
+1. [General Lab Duties](#1-general-lab-duties)
 
-2. Websites & Software
+2. [Websites & Software](#2-websites-and-software)
 
-3. Important Contacts
+3. [Important Contacts](#3-important-university-contacts)
 
-4. Lab Companies
+4. [Lab Companies](#4-companies-and-sales-reps)
 
 ---
 
@@ -226,7 +226,7 @@
 
 ---
 
-## 4. Companies & Sales Reps
+## 4. Companies and Sales Reps
 
 #### AddGene
 
