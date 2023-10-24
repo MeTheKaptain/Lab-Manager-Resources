@@ -1,5 +1,5 @@
 
-# General Lab Duties (edit)
+# General Lab Duties
 
 ---
 
