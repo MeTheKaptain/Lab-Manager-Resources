@@ -95,7 +95,11 @@
 
 [Ecotime Web Clock](https://ouhsc.ecotimebyhbs.com/ecotimeWCsso/)
 
-* clock in/out, request time off, view time balances
+* clock in/out, request time off, view time balances *(on-campus only)*
+
+[Off-Campus TAL](https://ouhsc.ecotimebyhbs.com/ecotimesso)
+
+* TAL site for off-campus access with limited functionality
 
 [WebMail](https://webmail.ouhsc.edu)
 
@@ -135,7 +139,7 @@
 
 [LabCliQ](https://labcliq.com/login.cfm)
 
-* submit and address safety inspection to-do items following a yearly inspection 
+* submit and address safety inspection to-do items following a yearly inspection *(only use SSO login)*
 
 [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
@@ -177,10 +181,10 @@
 * Zoom
 * Adobe Photoshop
 * Adobe Illustrator
+* Adobe Acrobat
 * CodonCode Aligner
 * Bio-Rad Image Lab
 * Prism *(only on lab computer)*
-* Adobe Acrobat
 * Sublime Text *(only if you want a text editor that's better than Notepad)*
 
 [Back to Top](#table-of-contents)
