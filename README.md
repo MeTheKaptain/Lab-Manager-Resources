@@ -121,7 +121,7 @@
 
 * good luck…
 
-[SelfService](https://selfservehc.ou.edu/psp/HCPRD/?cmd=login)
+[SelfService](https://www.ouhsc.edu/selfserve)
 
 * view personal information, retirement/benefits, addresses, and more
 
