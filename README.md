@@ -247,7 +247,6 @@
 * All contact is via email for ordering
 * BS Admin will need to be sent scanned invoices to pay via voucher
 * Sales Contact: **Kyle Daniel & Sean O'Neal**
-	- ams.okc@airgas.com
 * Delivery Contact: **Joshua Worley**
 
 #### Amazon
