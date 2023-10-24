@@ -121,6 +121,10 @@
 
 * good luck…
 
+[OU Physician IT](https://itsupport.ou.edu/TDClient/34/OKC/Home/)
+
+* IT for the general lab computer needs 
+
 [SelfService](https://www.ouhsc.edu/selfserve)
 
 * view personal information, retirement/benefits, addresses, and more
