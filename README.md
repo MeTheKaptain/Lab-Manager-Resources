@@ -305,7 +305,7 @@
 * Carry a variety of other brands/companies outside of their own products
 * University has a contract deal with VWR for free shipping and better prices
 * [FisherSci Home](https://www.fishersci.com/us/en/home.html)
-* Sales Rep: **unknown**
+* Sales Rep: **Amanda Myers & Alisha Booth**
 
 #### IDT DNA
 
