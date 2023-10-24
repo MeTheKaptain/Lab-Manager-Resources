@@ -379,4 +379,4 @@
 
 ---
 
-[Back to Top](https://github.com/MeTheKaptain/Lab-Manager-Resources#table-of-contents)
+[Back to Top](https://methekaptain.github.io/Lab-Manager-Resources/table-of-contents)
