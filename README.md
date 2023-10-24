@@ -18,7 +18,7 @@
 
 ### Daily
 
-* clock in and out to log hour appropriately
+* clock in and out to log hours appropriately
 	- Augie does not like to go in and adjust timesheets
 	- make sure you are getting paid for your work! 
 * check biohazard waste bins and autoclave when full
@@ -32,7 +32,7 @@
 ### Weekly
 
 * make necessary orders for the lab
-	- check stocks of consumables for low stocks regularly
+	- check counts of consumables for low stocks regularly
 	- feel free to implement a notification system for other lab members to let you know when stocks are low
 	- the standard is to be notified with things are **low**, not completely out
 	- delivery turnaround times are varied, understanding them will come with experience *(other lab members will be able to help learn this)*
@@ -45,16 +45,16 @@
 	- culture flasks
 	- wooden applicators *(sticks)*
 	- toothpicks *(properly oriented)*
+	- other
 * present data and general lab discussion in lab meeting
 * check functions of the eye wash station
 * check CO2 tank levels in BRC464 and BRC457
 	- replace with spare tank when needed *(and order an additional spare to replace it)*
 * refill low ddH2O and EtOH squirt bottles
-* run the eye wash station 
  
 ### Monthly
 
-* reconcile monthly purchase card charges for the lab
+* reconcile monthly purchases for the lab *(pcard use)*
 * scrape the -80&deg;C freezer
 * refill the liquid nitrogen dewar
 
@@ -62,7 +62,7 @@
 
 * thaw the -20&deg;C freezer *(typically after/during the summer)*
 * change the filters of the Milli-Q water purifier
-* change the air filters on the CO2 incubators *(typically every two years, actually)*
+* change the air filters on the CO2 incubators *(typically every two years, some are on alternating years I think)*
 
 ### Miscellaneous/As Needed
 
@@ -72,15 +72,15 @@
 	- LB broth *(300mL volumes and 1.5L volumes)*
 	- LB agar *(300mL volumes)*
 	- 20mg/mL FAF BSA *(and aliquot for -80&deg;C storage)*
-	- others are surely being forgotten but will be mentioned when necessary
+	- others are surely being forgotten but will be mentioned when necessary by other lab members
 * autoclave water and 80% glycerol in small volumes
-* make lab meeting schedule and presentation schedule
+* make lab meeting schedule and presentation schedule *(reserve larger conference rooms when needed)*
 * send lab coats to be cleaned *(9th floor bucket drop-off)*
 * replace drying mats
 	- sinks, cell culture, and chemical/equipment bench
 * have the department order printer toner *(Brother printer in Dr. Mooers’ room)*
 * refill the hand soap dispenser
-* stock EtOH bottles from the iLabs ethanol vault
+* stock EtOH jugs from the iLabs ethanol vault
 * clean the used spatulas and scoopulas
 * empty the vacuum waste on the bench top *(just yours)*
 * empty the cell culture vacuum waste when full *(464 and 457)*
