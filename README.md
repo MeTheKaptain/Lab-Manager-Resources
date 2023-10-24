@@ -279,7 +279,7 @@
 #### BMG LabTech
 
 * Manufacturer of high-end plate readers *(our PHERAstar and POLARstar)*
-* Sales Rep: **Eric Haffner** *(this guy is next to useless, Augie will need to reach out directly to his previous rep)*
+* Sales Rep: **Eric Haffner** *(this guy is next to useless, Augie will need to reach out directly to his previous rep 95% of the time)*
 
 #### cDNA Resource Center
 
@@ -302,7 +302,7 @@
 * Carry a variety of other brands/companies outside of their own products
 * University has a contract deal with VWR for free shipping and better prices
 * [FisherSci Home](https://www.fishersci.com/us/en/home.html)
-* Sales Rep: **Unknown**
+* Sales Rep: **unknown**
 
 #### IDT DNA
 
@@ -338,6 +338,7 @@
 #### Perkin-Elmer (Revvity)
 
 * Specifically used for the LANCE Ultra cAMP assay kit *(now from the Revvity line)*
+* Two companies have spawned from a single one, Revvity looks to be the one we will be working with primarily
 * [PerkinElmer + Revvity Branch Point](https://www.perkinelmer.com)
 * Sales Rep: **none**
 
@@ -345,7 +346,7 @@
 
 * Specific products purchased here, namely their assay kits with furimazine with or without LgBiT
 * Very pricey kits that are continuing to increase in cost. Don't misorder these, they make many kits and in several size options!
-* Sales Rep: **Unknown**
+* Sales Rep: **unknown**
 
 #### QIAGEN
 
@@ -362,24 +363,24 @@
 #### Sartorius
 
 * 
-* Sales Rep: ****
+* Sales Rep: **unknown**
 
 #### Sigma Aldrich
 
 *
-* Sales Rep: ****
+* Sales Rep: **unknown**
 
 #### Thermo Fisher
 
 * Typically can use Fisher Sci for ordering: the offer almost the exact same catalog
 * Will be used for GeneArt Strings ordering of custom synthesis DNA fragments
 * [GeneArt Dashboard](https://www.thermofisher.com/order/geneart-dashboard/index.html)
-* Sales Rep: ****
+* Sales Rep: **unknown**
 
 #### USA Scientific
 
 *
-* Sales Rep: ****
+* Sales Rep: **Ashley Love**
 
 #### VWR
 
