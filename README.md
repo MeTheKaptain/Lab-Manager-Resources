@@ -84,6 +84,8 @@
 * empty the vacuum waste on the bench top *(just yours)*
 * empty the cell culture vacuum waste when full *(464 and 457)*
 
+[Back to Top](#table-of-contents)
+
 --- 
 
 ## 2. Websites and Software
@@ -180,6 +182,8 @@
 * Adobe Acrobat
 * Sublime Text *(only if you want a text editor that's better than Notepad)*
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 3. Important University Contacts
@@ -217,6 +221,8 @@
 	- Does not technically provide admin assistance to this lab *(though she used to)*
 	- Can serve as guide for lab management tasks and help with things that operate above the lab
 	- She currently operates the Teams group of lab managers with great resources for running the lab
+
+[Back to Top](#table-of-contents)
 
 ---
 
