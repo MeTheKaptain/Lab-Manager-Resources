@@ -349,7 +349,7 @@
 
 * Specific products purchased here, namely their assay kits with furimazine with or without LgBiT
 * Very pricey kits that are continuing to increase in cost. Don't misorder these, they make many kits and in several size options!
-* Sales Rep: **Mike Gallegos**
+* Client Rep: **Mike Gallegos**
 
 #### QIAGEN
 
@@ -370,7 +370,7 @@
 
 #### Sigma Aldrich
 
-*
+* 
 * Sales Rep: **unknown**
 
 #### Thermo Fisher
@@ -382,7 +382,8 @@
 
 #### USA Scientific
 
-*
+* Newer company that we are using to purchase pipette tips now
+* Purchasing directly from a quote for now, might switch to online ordering if an account can be set up with the appropriate pricing
 * Sales Rep: **Ashley Love**
 
 #### VWR
