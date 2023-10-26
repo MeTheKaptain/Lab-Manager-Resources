@@ -349,7 +349,7 @@
 
 * Specific products purchased here, namely their assay kits with furimazine with or without LgBiT
 * Very pricey kits that are continuing to increase in cost. Don't misorder these, they make many kits and in several size options!
-* Sales Rep: **unknown**
+* Sales Rep: **Mike Gallegos**
 
 #### QIAGEN
 
