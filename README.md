@@ -19,7 +19,7 @@
 ### Daily
 
 * clock in and out to log hours appropriately
-	- Augie does not like to go in and adjust timesheets
+	- Augie prefers not to go in and adjust timesheets unnecessarily
 	- make sure you are getting paid for your work! 
 * check biohazard waste bins and autoclave when full
 * store and organize packages as they are delivered
