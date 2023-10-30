@@ -145,6 +145,10 @@
 
 * submit and address safety inspection to-do items following a yearly inspection *(only use SSO login)*
 
+[Places to Eat on Campus](https://students.ouhsc.edu/Current-Students/Campus-Life/Student-Calendar/Event-Details/ouhsc-campus-dining-options) 
+
+* dining options on campus with a helpful map of their locations
+
 [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 * compare nucleotide and amino acid sequences to several databases or another sequence for alignment and identification
