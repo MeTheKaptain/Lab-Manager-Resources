@@ -44,9 +44,9 @@
 	- 5mL tubes
 	- culture flasks
 	- wooden applicators *(sticks)*
-	- toothpicks *(properly oriented)*
+	- toothpicks *(must be properly oriented)*
 	- other
-* present data and general lab discussion in lab meeting
+* present data and general lab discussion in lab meeting *(Wednesday @ 2pm BRC469)*
 * check functions of the eye wash station
 * check CO2 tank levels in BRC464 and BRC457
 	- replace with spare tank when needed *(and order an additional spare to replace it)*
@@ -55,8 +55,11 @@
 ### Monthly
 
 * reconcile monthly purchases for the lab *(pcard use)*
+	- send invoices to Vicki to encumber after reconciliation 
 * scrape the -80&deg;C freezer
-* refill the liquid nitrogen dewar
+* refill the liquid nitrogen storage dewar
+	- BMSB 9th floor *(Vicki has keys if locked)* 
+* refill the autoclaved single-distilled water pans in the cell culture incubators 
 
 ### Yearly
 
@@ -79,11 +82,14 @@
 * replace drying mats
 	- sinks, cell culture, and chemical/equipment bench
 * have the department order printer toner *(Brother printer in Dr. Mooers’ room)*
+	- spare toner is stored in the room on the floor by the shelving system 
 * refill the hand soap dispenser
 * stock EtOH jugs from the iLabs ethanol vault
 * clean the used spatulas and scoopulas
 * empty the vacuum waste on the bench top *(just yours)*
 * empty the cell culture vacuum waste when full *(464 and 457)*
+* have EHSO pick up liquid hazardous waste when full
+	- form to fill out is on the EHSO website *(link below)* 
 
 [Back to Top](#table-of-contents)
 
