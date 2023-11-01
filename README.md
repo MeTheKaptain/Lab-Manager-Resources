@@ -292,7 +292,7 @@
 #### BMG LabTech
 
 * Manufacturer of high-end plate readers *(our PHERAstar and POLARstar)*
-* Sales Rep: **Eric Haffner** *(this guy is next to useless, Augie will need to reach out directly to his previous rep 95% of the time)*
+* Sales Rep: **Eric Haffner** *(this rep is not particularly helpful, Augie will need to reach out directly to his previous rep 95% of the time)*
 
 #### cDNA Resource Center
 
