@@ -359,6 +359,7 @@
 
 * Specific products purchased here, namely their assay kits with furimazine with or without LgBiT
 * Very pricey kits that are continuing to increase in cost. Don't misorder these, they make many kits and in several size options!
+* [Promega Home](https://www.promega.com)
 * Client Rep: **Mike Gallegos**
 
 #### QIAGEN
@@ -375,18 +376,20 @@
 
 #### Sartorius
 
-* 
+* Several specialized bioprocessing solutions like streptavidin tips for BLI data
+* [Sartorius Home](https://www.sartorius.com/en/company/)
 * Sales Rep: **unknown**
 
-#### Sigma Aldrich
+#### Sigma Aldrich *(Millipore Sigma)*
 
-* 
+* Raw chemical provider that has often been of great quality, though this has been decreasing over the years as they have off-loaded manufacturing to 3rd party providers
+* [Sigma Aldrich Home](https://www.sigmaaldrich.com/US/en)
 * Sales Rep: **unknown**
 
 #### Thermo Fisher
 
-* Typically can use Fisher Sci for ordering: the offer almost the exact same catalog
-* Will be used for GeneArt Strings ordering of custom synthesis DNA fragments
+* Typically can use Fisher Sci for ordering instead: they offer almost the exact same catalog
+* Will be used for GeneArt Strings ordering of custom synthetic DNA fragments
 * [GeneArt Dashboard](https://www.thermofisher.com/order/geneart-dashboard/index.html)
 * Sales Rep: **unknown**
 
@@ -402,6 +405,7 @@
 * Carry a variety of other brands/companies outside of their own products that can be especially good
 * University has a contract deal with VWR for free shipping and better prices
 * Their website is unique in that you have to add products to the cart **and update the cart** to see the actual prices you will pay
+* [VWR Home](https://us.vwr.com/store/)
 * Sales Rep: **Steve Yandell**
 
 ---
