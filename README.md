@@ -317,6 +317,14 @@
 * [FisherSci Home](https://www.fishersci.com/us/en/home.html)
 * Sales Rep: **Amanda Myers & Alisha Booth**
 
+#### Genesee Scientific
+
+* General purpose ordering for consumable lab goods. Not a company we have worked with in the past
+* Could consider working with them due to new relationships forged by their sales rep *(Dallas-based)*
+* Would need to make an account or work directly from sales quotes
+* [Genesee Home](https://geneseesci.com)
+* Sales Rep: **Jack Spicer** 
+
 #### IDT DNA
 
 * Custom DNA synthesis used to create and order short sequences like traditional and Gibson cloning primers
